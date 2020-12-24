@@ -1,2 +1,2 @@
-# Arda-devler
+# Arda-odevler
 Python eğitim ödevleri
