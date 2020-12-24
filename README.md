@@ -1,2 +1,2 @@
 # Arda-devler
-Phyton eğitim ödevleri
+Python eğitim ödevleri
