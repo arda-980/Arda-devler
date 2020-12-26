@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
+#Arda_Python_Ödev-1
 liste = []
 g="Giriniz :"
 ad=input("Adınızı "+ g )
@@ -27,16 +22,3 @@ print("Listenin ikinci verisi : ", type(liste[1]))
 print("Listenin üçüncü verisi : ", type(liste[2]))
 print("Listenin dördüncü verisi : ", type(liste[3]))
 print("Listenin beşinci verisi : ", type(liste[4]))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
